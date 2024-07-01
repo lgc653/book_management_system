@@ -44,3 +44,8 @@
 本项目共计16天的开发周期，使用mermaid绘制甘特图
 ```
 
+## GIT
+
+[lgc653/book_management_system (github.com)](https://github.com/lgc653/book_management_system)
+
+> 你用AI写需求，他用AI写代码，我用AI做项目评审，大家都有光明的未来……
